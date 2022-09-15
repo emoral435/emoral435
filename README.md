@@ -5,5 +5,4 @@ interests : app development and webdev
 
 <strong>Major Projects<strong>
       
-            
-      <ul>email - emoral435@gmail.com</ul>
+email - emoral435@gmail.com
