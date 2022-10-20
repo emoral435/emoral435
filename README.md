@@ -1,7 +1,4 @@
-Hello, (user).
-My name is Eduardo Morales.
-Freshmen @ UIC.
-interests : app development and webdev 
+# 🌙 Eduardo Morales
 
 <strong>Major Projects<strong>
 <ul>
