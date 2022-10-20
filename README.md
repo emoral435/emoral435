@@ -9,6 +9,8 @@
  
 I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web development, and   learning how to make bugs- I mean make well-developed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations are planned once I think up of cooler ideas to add. Every project is worked on untill finished.
 
+#
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -20,8 +22,10 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
+#
+
 ### 📊 Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
