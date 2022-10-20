@@ -20,7 +20,6 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
-<br />
 ### 📊 Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435)](https://github.com/anuraghazra/github-readme-stats)
 
