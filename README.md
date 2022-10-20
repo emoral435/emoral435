@@ -3,7 +3,7 @@
 **`computer nerd`** 
 
 <p>
-  <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='left'/>
+  <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right'/>
 </p>
 
  
