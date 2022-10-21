@@ -31,7 +31,7 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&theme=tokyonight&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-###👷 Working Currently On :
+### 👷 Working Currently On :
 <a href="https://github.com/emoral435/Etch-A-Sketch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=Etch-A-Sketch&title_color=70a4fc&text_color=36b2a4&icon_color=a982d8&bg_color=1a1b27" />
 </a>
