@@ -22,7 +22,7 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 #
 
 ### 📊 Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&theme=tokyonight&custom_title='Eduardo's Stats')](https://github.com/anuraghazra/github-readme-stats)
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&layout=compact&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
