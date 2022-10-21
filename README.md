@@ -1,13 +1,10 @@
-# 🌙 - Eduardo Morales
+# 🌙 - Eduardo Morales - 🌙 
 
 **`computer nerd`** 
 
-<p>
-  <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right'/>
-</p>
-
+<img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right'/>
  
-I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web development, and   learning how to make bugs- I mean make well-developed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations are planned once I think up of cooler ideas to add. Every project is worked on untill finished.
+I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web development, and learning how to make bugs- I mean make well-developed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations are planned once I think up of cooler ideas to add. Every project is worked on untill finished.
 
 #
 
@@ -26,6 +23,7 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 
 ### 📊 Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
