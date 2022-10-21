@@ -2,11 +2,15 @@
 
 **`computer nerd`** 
 
+<!-- giph that I added, as well as description -->
+
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
  
 I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web development, and learning how to make bugs- I mean make well-developed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations are planned once I think up of cooler ideas to add. Every project is worked on untill finished.
 
 #
+
+<!-- tools and languages with icons -->
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -21,8 +25,15 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 
 #
 
+<!-- displaying my stats, not made by me, but by anuraghazra (search him up and find his github stats repository and read through it for more details)
+
 ### 📊 Stats and Languages
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&theme=tokyonight&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Working Currently On :
+<a href="https://github.com/emoral435/Etch-A-Sketch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=Etch-A-Sketch&title_color=ffffff&text_color=c9cacc&icon_color=2BA0BD&bg_color=0F3347" />
+</a>
 
 
