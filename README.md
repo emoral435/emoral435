@@ -32,8 +32,8 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👷 Working Currently On :
-<a href="https://github.com/emoral435/The-Do-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=The-Do-List&title_color=70a4fc&text_color=36b2a4&icon_color=a982d8&bg_color=1a1b27" />
+<a href="[https://github.com/emoral435/The-Do-List](https://github.com/emoral435/Shed-Shopping)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=SXhed-Shopping&title_color=70a4fc&text_color=36b2a4&icon_color=a982d8&bg_color=1a1b27" />
 </a>
 
 
