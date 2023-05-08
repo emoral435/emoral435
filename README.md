@@ -22,6 +22,10 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" />
+<!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" /> -->
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 
 #
 
@@ -32,8 +36,8 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👷 Working Currently On :
-<a href="https://github.com/emoral435/Shed-Shopping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=Shed-Shopping&title_color=70a4fc&text_color=36b2a4&icon_color=a982d8&bg_color=1a1b27" />
+<a href="https://github.com/emoral435/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=Portfolio&title_color=70a4fc&text_color=36b2a4&icon_color=a982d8&bg_color=1a1b27" />
 </a>
 
 
