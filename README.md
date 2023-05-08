@@ -6,7 +6,7 @@
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
  
-I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web development, and learning how to make bugs- I mean make well-developed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations are planned once I think up of cooler ideas to add.
+I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web and mobile app development, particularily with Swift. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or brnaches are planned once I think up of cooler ideas to add.
 
 #
 
