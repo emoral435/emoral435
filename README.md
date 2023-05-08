@@ -29,6 +29,7 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 
 #
 
+<br/>
 <!-- displaying my stats, not made by me, but by anuraghazra (search him up and find his github stats repository and read through it for more details) -->
 
 ### 📊 Stats and Languages
