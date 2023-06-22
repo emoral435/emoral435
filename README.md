@@ -33,12 +33,14 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 <!-- displaying my stats, not made by me, but by anuraghazra (search him up and find his github stats repository and read through it for more details) -->
 
 ### 📊 Stats and Languages
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&theme=tokyonight&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/emoral435">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&rank_icon=github&theme=calm" />
+</a>
+<a href="https://github.com/emoral435">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&size_weight=0.5&count_weight=0.5&theme=calm&layout=donut-vertical" />
+</a>
 
 ### 👷 Working Currently On :
-<a href="https://github.com/emoral435/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=Portfolio&title_color=70a4fc&text_color=36b2a4&icon_color=a982d8&bg_color=1a1b27" />
-</a>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=Portfolio&theme=calm)
 
 
