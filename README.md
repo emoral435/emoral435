@@ -41,6 +41,6 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 </a>
 
 ### 👷 Working Currently On :
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=Portfolio&theme=calm)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=SG-Backend&theme=calm)
 
 
