@@ -6,15 +6,26 @@
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
 
-Currently employed over at Nextcloud as a Working Student Software Engineer~
+Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Student Software Engineer~
  
 I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web and mobile app development, particularily with Swift. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
 
 #
 
+<!-- My Website -->
+
+### 🚀 My Website 
+<ul>
+ <li>
+  <a href="https://www.moraleseduardo.com/">
+   Visit it here!
+  </a>
+ </li>
+</ul>
+
 <!-- tools and languages with icons -->
 
-### 🧰 Languages and Tools
+### 🧰 Some Languages and Tools that I have used before ~
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
