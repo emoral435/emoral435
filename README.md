@@ -2,23 +2,33 @@
 
 **`origami nerd`** 
 
-<!-- giph that I added, as well as description -->
+<!-- giphy that I added, as well as description -->
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
 
-Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Student Software Engineer~
+Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Student Software Engineer 😃💙
  
-I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web and mobile app development, particularily with Swift. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
+> I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web and mobile app development, particularily with Swift. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
 
 #
 
 <!-- My Website -->
 
-### 🚀 My Website 
+### 🚀 My Social Medias!
 <ul>
  <li>
   <a href="https://www.moraleseduardo.com/">
-   Visit it here!
+   Website
+  </a>
+ </li>
+ <li>
+  <a href="https://www.linkedin.com/in/emswe/">
+   LinkedIn
+  </a>
+ </li>
+ <li>
+  <a href="https://medium.com/@emoral435">
+   Medium - Hear me yap!
   </a>
  </li>
 </ul>
@@ -46,14 +56,9 @@ I'm a current student at the University of Illinois Chicago studying computer sc
 <!-- displaying my stats, not made by me, but by anuraghazra (search him up and find his github stats repository and read through it for more details) -->
 
 ### 📊 Stats and Languages
-<a href="https://github.com/emoral435">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emoral435&show_icons=true&rank_icon=github&theme=calm" />
-</a>
-<a href="https://github.com/emoral435">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&size_weight=0.5&count_weight=0.5&theme=calm&layout=donut-vertical" />
-</a>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emoral435&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=donut)
 
 ### 👷 Working Currently On :
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=SG-Backend&theme=calm)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=SG-Backend&theme=tokyonight)
 
 
