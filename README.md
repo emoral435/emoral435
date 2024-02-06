@@ -6,7 +6,9 @@
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
 
-Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Student Software Engineer 😃💙 Regain Control Over Your Data~
+Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Student Software Engineer 😃💙
+
+Regain Control Over Your Data~
  
 > I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web and mobile app development, particularily with Swift. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
 
@@ -32,7 +34,7 @@ Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Stud
   </a>
  </li>
  <li>
-  <a href="./EduardoMorales.pdf" download="./EduardoMorales.pdf">
+  <a href="" download="EduardoMorales.pdf">
    Resume
   </a>
  </li>
