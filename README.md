@@ -32,7 +32,7 @@ Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Stud
   </a>
  </li>
  <li>
-  <a href="./EduardoMorales.pdf" download>
+  <a href="./EduardoMorales.pdf" download="./EduardoMorales.pdf">
    Resume
   </a>
  </li>
