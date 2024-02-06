@@ -34,7 +34,7 @@ Regain Control Over Your Data~
   </a>
  </li>
  <li>
-  <a href="" download="EduardoMorales.pdf">
+  <a href="/EduardoMorales.pdf" download="EduardoMorales.pdf">
    Resume
   </a>
  </li>
