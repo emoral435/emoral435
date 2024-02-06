@@ -19,22 +19,22 @@ Regain Control Over Your Data~
 ### 🚀 My Social Medias!
 <ul>
  <li>
-  <a href="https://www.moraleseduardo.com/">
+  <a href="https://www.moraleseduardo.com/" target="_blank">
    Portfolio
   </a>
  </li>
  <li>
-  <a href="https://www.linkedin.com/in/emswe/">
+  <a href="https://www.linkedin.com/in/emswe/" target="_blank">
    LinkedIn
   </a>
  </li>
  <li>
-  <a href="https://medium.com/@emoral435">
+  <a href="https://medium.com/@emoral435" target="_blank">
    Medium - Hear me yap!
   </a>
  </li>
  <li>
-  <a href="/EduardoMorales.pdf" download="EduardoMorales.pdf">
+  <a href="/EduardoMorales.pdf" download="EduardoMorales.pdf" target="_blank">
    Resume
   </a>
  </li>
