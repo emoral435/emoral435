@@ -33,11 +33,6 @@ Regain Control Over Your Data~
    Medium - Hear me yap!
   </a>
  </li>
- <li>
-  <a href="/EduardoMorales.pdf" download="EduardoMorales.pdf" target="_blank">
-   Resume
-  </a>
- </li>
 </ul>
 
 <!-- tools and languages with icons -->
