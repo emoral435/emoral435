@@ -65,7 +65,4 @@ Regain Control Over Your Data~
 ### 📊 Stats and Languages
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emoral435&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=donut)
 
-### 👷 Working Currently On :
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emoral435&repo=SG-Backend&theme=tokyonight)
-
 
