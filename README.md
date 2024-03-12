@@ -10,6 +10,7 @@ Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Stud
 
 Regain Control Over Your Data~
  
+> [!NOTE]\
 > I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web and mobile app development, particularily with Swift. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
 
 #
@@ -63,6 +64,6 @@ Regain Control Over Your Data~
 <!-- displaying my stats, not made by me, but by anuraghazra (search him up and find his github stats repository and read through it for more details) -->
 
 ### 📊 Stats and Languages
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emoral435&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=donut)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emoral435&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=donut&hide=css,html)
 
 
