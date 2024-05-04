@@ -6,7 +6,7 @@
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
 
-Currently employed over at [Nextcloud](https://nextcloud.com/) as a Working Student Software Engineer 😃💙
+Previously employed over at [Nextcloud](https://nextcloud.com/) as a Student Software Engineer 😃💙
 
 Regain Control Over Your Data~
  
