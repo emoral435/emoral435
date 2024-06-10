@@ -5,7 +5,8 @@
 <!-- giphy that I added, as well as description -->
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
-Currently employed at [Enova International](https://www.enova.com/) as a Software Engineer Intern ⭐
+
+Currently employed at [Enova International](https://www.enova.com/) as a Software Engineer Intern ☺️💚
 
 Previously employed over at [Nextcloud](https://nextcloud.com/) as a Student Software Engineer 😃💙
  
