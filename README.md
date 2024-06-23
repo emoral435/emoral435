@@ -8,10 +8,10 @@
 
 Currently employed at [Enova International](https://www.enova.com/) as a Software Engineer Intern ☺️💚
 
-Previously employed over at [Nextcloud](https://nextcloud.com/) as a Student Software Engineer 😃💙
+* Previously employed over at [Nextcloud](https://nextcloud.com/) as a Student Software Engineer 😃💙
  
 > [!NOTE]\
-> I'm a current student at the University of Illinois Chicago studying computer science. I'm interested in Full-Stack web and mobile app development, particularily with Swift. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
+> I'm a current student at the University of Illinois Urbana-Champaign studying mathematics and computer science. I'm interested in Full-Stack web and mobile app development, particularily with Swift. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
 
 #
 
