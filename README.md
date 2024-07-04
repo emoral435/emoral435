@@ -54,7 +54,7 @@ Currently employed at [Enova International](https://www.enova.com/) as a Softwar
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
 
 
 <br/>
