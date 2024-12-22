@@ -1,26 +1,26 @@
 # 🌙 - Eduardo Morales - 🌙 
 
-**`origami nerd`** 
+**`origami and computer nerd`** 
 
-<!-- giphy that I added, as well as description -->
+<!-- giphy that I added, as well as description about me :D -->
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
 
-* Previously employed at [Enova International](https://www.enova.com/interns/) as a Software Engineer Intern ☺️💚
-* Previously employed over at [Nextcloud](https://nextcloud.com/) as a Student Software Engineer 😃💙
+Software Engineering Intern @ [Nextdoor](https://about.nextdoor.com/) 🥳🏡
+
+* Previously employed @ [Enova International](https://www.enova.com/interns/) as a Software Engineer Intern ☺️💚
+* Previously employed @ [Nextcloud](https://nextcloud.com/) as a Student Software Engineer 😃💙
  
 > [!NOTE]\
-> I'm a current student at the University of Illinois Urbana-Champaign studying mathematics and computer science. I'm interested in Full-Stack web and infrastructure development. Currently working on making bug-filled — I mean well designed projects. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
+> I'm a current student at the University of Illinois Urbana-Champaign studying mathematics and computer science! I love working on making bug-filled — I mean well designed projects! Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
 
-#
-
-<!-- My Website -->
+<!-- My Social Medias -->
 
 ### 🚀 My Social Medias!
 <ul>
  <li>
   <a href="https://www.moraleseduardo.com/" target="_blank">
-   Portfolio
+   My website and blog
   </a>
  </li>
  <li>
@@ -57,8 +57,6 @@
 
 
 <br/>
-
-#
 
 <!-- displaying my stats, not made by me, but by anuraghazra (search him up and find his github stats repository and read through it for more details) -->
 
