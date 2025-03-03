@@ -28,11 +28,6 @@ Software Engineering Intern @ [Nextdoor](https://about.nextdoor.com/) 🥳🏡
    LinkedIn
   </a>
  </li>
- <li>
-  <a href="https://medium.com/@emoral435" target="_blank">
-   Medium - Hear me yap!
-  </a>
- </li>
 </ul>
 
 <!-- tools and languages with icons -->
