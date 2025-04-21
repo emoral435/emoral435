@@ -1,6 +1,6 @@
 # 🌙 - Eduardo Morales - 🌙 
 
-**`origami, jewelry, and computer nerd`** 
+**`origami, legos, movie, and computer nerd`** 
 
 <!-- giphy that I added, as well as description about me :D -->
 
