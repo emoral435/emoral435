@@ -12,7 +12,7 @@ Software Engineering Intern @ [Nextdoor](https://about.nextdoor.com/) 🥳🏡
 * Previously employed @ [Nextcloud](https://nextcloud.com/) as a Student Software Engineer 😃💙
  
 > [!NOTE]\
-> I'm a current student at the University of Illinois Urbana-Champaign studying mathematics and computer science! Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
+> I'm a student at the University of Illinois Urbana-Champaign studying mathematics and computer science! Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
 
 <!-- My Social Medias -->
 
