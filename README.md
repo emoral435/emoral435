@@ -6,8 +6,7 @@
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
 
-Software Engineering Intern @ [Nextdoor](https://about.nextdoor.com/) 🥳🏡
-
+* Previously employed @ [Nextdoor](https://about.nextdoor.com/) as a Software Engineering Intern  🥳🏡
 * Previously employed @ [Enova International](https://www.enova.com/interns/) as a Software Engineer Intern ☺️💚
 * Previously employed @ [Nextcloud](https://nextcloud.com/) as a Software Engineer 😃💙
  
