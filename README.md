@@ -47,11 +47,5 @@
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 
-<br/>
-
-<!-- displaying my stats, not made by me, but by anuraghazra (search him up and find his github stats repository and read through it for more details) -->
-
-### 📊 Stats and Languages
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emoral435&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoral435&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=donut&hide=css,html)
 
 
