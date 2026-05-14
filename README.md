@@ -5,13 +5,13 @@
 <!-- giphy that I added, as well as description about me :D -->
 
 <img alt='computer Gif' src='https://media.giphy.com/media/tlRU5lV5HqMpSAGPXh/giphy.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
-
+Currently employed @ [Abridge](https://www.abridge.com/) as a Software Engineer 🏥
 * Previously employed @ [Nextdoor](https://about.nextdoor.com/) as a Software Engineering Intern 🏡
 * Previously employed @ [Enova International](https://www.enova.com/interns/) as a Software Engineer Intern 🐳
 * Previously employed @ [Nextcloud](https://nextcloud.com/) as a Software Engineer ☁️
 
 > [!NOTE]\
-> I'm a student at the University of Illinois Urbana-Champaign studying mathematics and computer science! Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
+> I'm a graduate from the University of Illinois Urbana-Champaign with a B.S in Mathematics and Computer Science. Projects found in repositories are started once the pre-planning and white-boarding is done, and the next iterations or branches are planned once I think up of cooler ideas to add.
 
 <!-- My Social Medias -->
 
