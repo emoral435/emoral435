@@ -1,6 +1,6 @@
 # 🌙 - Eduardo Morales - 🌙 
 
-**`pokemon, legos, movie, and computer nerd`** 
+**`pokemon, movie, and computer nerd`** 
 
 <!-- giphy that I added, as well as description about me :D -->
 
